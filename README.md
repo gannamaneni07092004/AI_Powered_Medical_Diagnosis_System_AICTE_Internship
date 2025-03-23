@@ -59,6 +59,6 @@ Technology Stack
 Contact & Support
 
 * Email: gannamanenipriya@gmail.com
-* GitHub: 
+* GitHub: https://github.com/gannamaneni07092004/AI_Powered_Medical_Diagnosis_System_AICTE_Internship
 
 This project is a step toward smarter, accessible, and AI-powered healthcare diagnostics.
